@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 55;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -11,6 +11,7 @@
 		4427EA7F2752581E00BA6BC8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4427EA7E2752581E00BA6BC8 /* ContentView.swift */; };
 		4427EA812752582300BA6BC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4427EA802752582300BA6BC8 /* Assets.xcassets */; };
 		4427EA842752582300BA6BC8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4427EA832752582300BA6BC8 /* Preview Assets.xcassets */; };
+		4427EA8B275262FF00BA6BC8 /* Main view.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4427EA8A275262FF00BA6BC8 /* Main view.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4427EA7E2752581E00BA6BC8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4427EA802752582300BA6BC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4427EA832752582300BA6BC8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4427EA8A275262FF00BA6BC8 /* Main view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Main view.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4427EA7C2752581E00BA6BC8 /* diabetUsApp.swift */,
 				4427EA7E2752581E00BA6BC8 /* ContentView.swift */,
+				4427EA8A275262FF00BA6BC8 /* Main view.swift */,
 				4427EA802752582300BA6BC8 /* Assets.xcassets */,
 				4427EA822752582300BA6BC8 /* Preview Content */,
 			);
@@ -103,7 +106,7 @@
 				};
 			};
 			buildConfigurationList = 4427EA742752581E00BA6BC8 /* Build configuration list for PBXProject "diabetUs" */;
-			compatibilityVersion = "Xcode 13.0";
+			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4427EA7F2752581E00BA6BC8 /* ContentView.swift in Sources */,
+				4427EA8B275262FF00BA6BC8 /* Main view.swift in Sources */,
 				4427EA7D2752581E00BA6BC8 /* diabetUsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
