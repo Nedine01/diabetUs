@@ -12,6 +12,7 @@
 		4427EA812752582300BA6BC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4427EA802752582300BA6BC8 /* Assets.xcassets */; };
 		4427EA842752582300BA6BC8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4427EA832752582300BA6BC8 /* Preview Assets.xcassets */; };
 		4427EA8B275262FF00BA6BC8 /* Main view.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4427EA8A275262FF00BA6BC8 /* Main view.swift */; };
+		4469D7822753F6E000EADA56 /* phoneVerif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4469D7812753F6E000EADA56 /* phoneVerif.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		4427EA802752582300BA6BC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4427EA832752582300BA6BC8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4427EA8A275262FF00BA6BC8 /* Main view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Main view.swift"; sourceTree = "<group>"; };
+		4469D7812753F6E000EADA56 /* phoneVerif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = phoneVerif.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				4427EA7C2752581E00BA6BC8 /* diabetUsApp.swift */,
 				4427EA7E2752581E00BA6BC8 /* ContentView.swift */,
 				4427EA8A275262FF00BA6BC8 /* Main view.swift */,
+				4469D7812753F6E000EADA56 /* phoneVerif.swift */,
 				4427EA802752582300BA6BC8 /* Assets.xcassets */,
 				4427EA822752582300BA6BC8 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4427EA7F2752581E00BA6BC8 /* ContentView.swift in Sources */,
+				4469D7822753F6E000EADA56 /* phoneVerif.swift in Sources */,
 				4427EA8B275262FF00BA6BC8 /* Main view.swift in Sources */,
 				4427EA7D2752581E00BA6BC8 /* diabetUsApp.swift in Sources */,
 			);
